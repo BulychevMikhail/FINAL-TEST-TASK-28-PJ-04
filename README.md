@@ -1,4 +1,4 @@
-# FINAL-TEST-TASK-28-PJ-04-
+# FINAL-TEST-TASK-28-PJ-04
 
 Финальный проект по курсу Тестировщик-автоматизатор на Python (QAP).
 Проект с использованием PyTest и Selenium интернет-магазина https://www.labirint.ru/. 
