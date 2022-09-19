@@ -30,19 +30,19 @@ allure-python-commons;
 
 Тестовые сценарии:
 
-test_auth_page.py - Тестируем возможность входа в личный кабинет. 4 теста. -команда запуска: 
+test_auth_page.py - Тестируем возможность входа в личный кабинет. 4 теста. -команда запуска:                                                                           
 python -m pytest -v --driver Chrome --driver-path C:/chromedriver/chromedriver.exe test_auth_page.py
 
-test_book_page.py - Тестируем книги с главной страницы. 4 теста. -команда запуска:
+test_book_page.py - Тестируем книги с главной страницы. 4 теста. -команда запуска:                                                                                   
 python -m pytest -v --driver Chrome --driver-path C:/chromedriver/chromedriver.exe test_book_page.py
 
-test_labirint.py  - Тестируем главную страницу 44 теста. -команда запуска:
+test_labirint.py  - Тестируем главную страницу 44 теста. -команда запуска:                                                                                             
 python -m pytest -v --driver Chrome --driver-path C:/chromedriver/chromedriver.exe test_labirint.py
 
-test_search_page.py - Тестируем поиск по тексту с главной страницы. 6 тестов. -команда запуска:
+test_search_page.py - Тестируем поиск по тексту с главной страницы. 6 тестов. -команда запуска:                                                                       
 python -m pytest -v --driver Chrome --driver-path C:/chromedriver/chromedriver.exe test_search_page.py
 
-test_cart_page.py - Тестируем корзину с книгами. 3 теста. -команда запуска:
+test_cart_page.py - Тестируем корзину с книгами. 3 теста. -команда запуска:                                                                             
 python -m pytest -v --driver Chrome --driver-path C:/chromedriver/chromedriver.exe test_cart_page.py
 
 ПАПКА test_param
