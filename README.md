@@ -53,8 +53,8 @@ python -m pytest -v --driver Chrome --driver-path C:/chromedriver/chromedriver.e
 
 Тестовые сценарии:
 
-test_parametr_home_page.py - параметризованный обход кнопок в шапке главной страницы сайта. 18 тестов. -команда запуска:
+test_parametr_home_page.py - параметризованный обход кнопок в шапке главной страницы сайта. 18 тестов. -команда запуска:                                  
 python -m pytest -v --driver Chrome --driver-path test_param\chrome\chromedriver.exe test_parametr_home_page.py
 
-test_parametr_office.py - параметризованный обход кнопок в разделе Канцтовары. 10 тестов.  -команда запуска:
+test_parametr_office.py - параметризованный обход кнопок в разделе Канцтовары. 10 тестов.  -команда запуска:                                           
 python -m pytest -v --driver Chrome --driver-path test_param\chrome\chromedriver.exe test_parametr_office.py
