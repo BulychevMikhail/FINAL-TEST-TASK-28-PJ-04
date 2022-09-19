@@ -1,22 +1,14 @@
 # FINAL-TEST-TASK-28-PJ-04-
 
 Финальный проект по курсу Тестировщик-автоматизатор на Python (QAP)
-
 Проект с использованием PyTest и Selenium интернет-магазина https://www.labirint.ru/. 
-
 Тесты запускаются в браузере Chrome.
-
 Для запуска тестов необходимо предварительно установить следующие библиотеки, список находится в файле requirements
 (pip3 install -r requirements):
-
 pytest;
-
 pytest-selenium;
-
 selenium;
-
 termcolor;
-
 allure-python-commons;
 
 Как запускать тесты:
